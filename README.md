@@ -1,9 +1,8 @@
-### Hi there 👋
 # 안녕하세요. 여러분 👋
 - 🏫저는 광주소프트웨어마이스터고등학교에서 일하고 있습니다!
 - 🖥저는 현재 @GSMHS 광주소프트웨어마이스터고에서 컴퓨터 과학을 강의합니다.
 - 🤖인공지능에 관하여 저에게 물어보세요.
-<!--
+<!-- ### Hi there 👋
 **goforit615/goforit615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
