@@ -9,7 +9,7 @@
 - 💬 Ask me about computer science and artificial intelligence.
 - 📫 How to reach me: bupark82@gsm.hs.kr
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: PLAY
 <!-- ### Hi there 👋
 **goforit615/goforit615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
