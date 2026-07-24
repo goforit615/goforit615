@@ -5,7 +5,7 @@
 - - 🔭 I’m currently working on teaching
 - 🌱 I’m currently learning education.
 - 👯 I’m looking to collaborate on partner.
-- 🤔 I’m looking for help with github.
+- 🤔 I’m looking for help with GitHub.
 - 💬 Ask me about computer science and artificial intelligence.
 - 📫 How to reach me: bupark82@gsm.hs.kr
 - 😄 Pronouns: ...
